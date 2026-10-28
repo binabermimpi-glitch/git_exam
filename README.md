@@ -5,4 +5,6 @@
 [github.com](https://github.com)
 
 
-#### pull 연습중 
+#### pull 연습중
+
+branch 연습중 ( 나 board야)
